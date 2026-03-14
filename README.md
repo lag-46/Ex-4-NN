@@ -177,7 +177,7 @@ print(classification_report(y_test, predictions))
 
 <H3>Output:</H3>
 
-
+![Img](NN 04.png)
 
 
 
